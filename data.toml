@@ -9,8 +9,8 @@ gtag_id = "G-33WB8LVHR6"
 base_url = "https://pythonomania.github.io"
 
 [[sections]]
-title = "Test"
-description = "Here are some of my movies"
+title = "Test section"
+description = "Test"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
