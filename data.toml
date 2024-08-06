@@ -21,9 +21,12 @@ url = "https://www.imdb.com/"
 
 [[sections]]
 title = "Links"
-description = "Look for me on these websites"
+description = ""
 direction = "row"
 item_style = "filled"
 [[sections.items]]
 title = "Telegram"
 url = "https://t.me/PYTHONOMANIA"
+[[sections.items]]
+title = "Donate"
+url = "https://t.me/tribute/app?startapp=d6uY"
