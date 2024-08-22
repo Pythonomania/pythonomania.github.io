@@ -16,7 +16,7 @@ item_style = "outline"
 [[sections.items]]
 title = "test"
 description = "test"
-url = "https://www.imdb.com/"
+url = ""
 
 
 [[sections]]
