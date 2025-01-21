@@ -19,8 +19,7 @@ description = "Stay informed about the latest weather conditions in your area or
 url = "https://pyweatherapp.streamlit.app/"
 [[sections.items]]
 title = "OCR app"
-description = "Extract text from images and PDFs with ease!
-Turn scanned documents, images, or PDFs into editable text effortlessly. This app leverages Tesseract OCR and modern libraries to provide accurate text recognition in multiple languages, including Russian. Includes a progress bar for seamless tracking of processing tasks and supports various file formats like JPG, PNG, and PDF."
+description = "Extract text from images and PDFs with ease! Turn scanned documents, images, or PDFs into editable text effortlessly. This app leverages Tesseract OCR and modern libraries to provide accurate text recognition in multiple languages, including Russian. Includes a progress bar for seamless tracking of processing tasks and supports various file formats like JPG, PNG, and PDF."
 url = "https://ocrtestapp.streamlit.app/"
 
 
