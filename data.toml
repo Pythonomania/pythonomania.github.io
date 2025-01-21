@@ -9,14 +9,18 @@ gtag_id = "G-33WB8LVHR6"
 base_url = "https://pythonomania.github.io"
 
 [[sections]]
-title = "Test section"
-description = "Test"
+title = "Sample apps"
+description = "---"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-title = "test"
-description = "test"
-url = ""
+title = "Weather app"
+description = "weather app"
+url = "https://pyweatherapp.streamlit.app/"
+[[sections.items]]
+title = "OCR app"
+description = "Pdf to text convertion"
+url = "https://ocrtestapp.streamlit.app/"
 
 
 [[sections]]
