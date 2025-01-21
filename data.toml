@@ -10,16 +10,17 @@ base_url = "https://pythonomania.github.io"
 
 [[sections]]
 title = "Sample apps"
-description = "---"
+description = "Discover some of the apps we’ve built to simplify tasks and demonstrate the versatility of Python:"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
 title = "Weather app"
-description = "weather app"
+description = "Stay informed about the latest weather conditions in your area or any location worldwide. This app uses a free weather API to provide real-time updates, including temperature, humidity, and weather descriptions, all displayed with an intuitive and visually appealing interface. Perfect for planning your day or tracking conditions on the go!"
 url = "https://pyweatherapp.streamlit.app/"
 [[sections.items]]
 title = "OCR app"
-description = "Pdf to text convertion"
+description = "Extract text from images and PDFs with ease!
+Turn scanned documents, images, or PDFs into editable text effortlessly. This app leverages Tesseract OCR and modern libraries to provide accurate text recognition in multiple languages, including Russian. Includes a progress bar for seamless tracking of processing tasks and supports various file formats like JPG, PNG, and PDF."
 url = "https://ocrtestapp.streamlit.app/"
 
 
